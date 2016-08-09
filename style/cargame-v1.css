@@ -1,0 +1,28 @@
+#header-banner
+{
+
+}
+
+#game-board-canvas
+{
+	/*background-image: url("../img/temp-road.jpg");*/
+}
+
+#game-board-block
+{
+	margin: auto;
+	width: 990px;
+	height: 650px;
+}
+
+
+.game-board
+{
+}
+
+#game-board-incompatible-message 
+{
+}
+#header-banner {
+    
+}
